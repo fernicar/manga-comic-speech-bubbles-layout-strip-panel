@@ -1,0 +1,5 @@
+{
+  "name": "BubbleGen",
+  "description": "A generalized speech bubble editor demonstrating dynamic SVG path generation with movable bodies and independent anchors.",
+  "requestFramePermissions": []
+}
