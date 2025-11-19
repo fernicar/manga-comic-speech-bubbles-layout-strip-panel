@@ -1,5 +1,9 @@
+https://github.com/user-attachments/assets/04d92909-6f3d-4d92-87ad-6fe0205eed45
+
 ![alt text](image.png)
-<video controls src="2025-11-19 14-03-04.mp4" title="Title"></video>
+
+![export](https://github.com/user-attachments/assets/a3736b24-242f-4950-8e77-b3cc177bc12c)
+
 
 # manga-comic-speech-bubbles-layout-strip-panel
 
