@@ -289,7 +289,7 @@ const App: React.FC = () => {
     
     const a = document.createElement('a');
     a.href = url;
-    a.download = 'bubblegen-export.svg';
+    a.download = 'manga-comic-speech-bubbles-layout-strip-panel-export.svg';
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
